@@ -1,0 +1,32 @@
+.img1{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    -webkit-transition:-webkit-transform.8s ease-in-out;
+}
+.img1:hover{
+    -webkit-transform: rotate(360deg);
+  
+}
+.cir1{
+    text-align: center;
+    margin-top: 100px;
+}
+.cir2{
+   
+    margin-right: 200px;
+}
+.cir3{
+    
+    margin-left: 500px;
+}
+body{
+    background-color: black;
+}
+h2{
+    color:white;
+    text-align: center;
+}
+span{
+    color:red;
+}

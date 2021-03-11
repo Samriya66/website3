@@ -1,0 +1,60 @@
+.navbar{
+    background-color:black;
+    
+}
+.navbar-brand{
+    color:red;
+}
+.navbar-brand span{
+    color:grey;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item a:hover{
+    color:grey;
+}
+.nav-item active a{
+    color:grey;
+}
+
+/* footer */
+.h2{
+    color:grey;
+    text-align: center;
+}
+
+.fa-facebook{
+   margin-left:500px;
+}
+.container5{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.slide{
+    background-color: black;
+}
+.tag{
+    height: 100px;
+    background-color: gainsboro;
+    align-content: center;
+  
+    padding-top: 20px;;
+}
+
+.tx1{
+    padding: 20px,10px;
+}
+.tx2{
+    padding: 20px,10px;
+}
+.tx3{
+    text-align: center;
+}
+body{
+    font-family: 'Marmelad', sans-serif;
+ }
+ footer{
+    font-family: 'Signika', sans-serif;
+
+ }
